@@ -7,7 +7,7 @@ from odoo import models, fields, api
 # class my_module(models.Model):
 #     _name = 'my_module.my_module'
 
-#     name = fields.Char() # t1
+#     name = fields.Char() # t1 + t2 (prod merge)
 #     value = fields.Integer()
 #     value2 = fields.Float(compute="_value_pc", store=True)
 #     description = fields.Text()
