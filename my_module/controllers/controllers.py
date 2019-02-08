@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 from odoo import http
 
+# Changes for BB
+
 # class MyModule(http.Controller):
 #     @http.route('/my_module/my_module/', auth='public')
 #     def index(self, **kw):
