@@ -3,6 +3,7 @@ from odoo import http
 
 # 1
 # Changes for B
+# Changes for B2
 
 # class MyModule(http.Controller):
 #     @http.route('/my_module/my_module/', auth='public')
